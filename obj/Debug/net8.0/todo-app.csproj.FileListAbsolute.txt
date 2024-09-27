@@ -1,0 +1,28 @@
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\bin\Debug\net8.0\todo-app.exe
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\bin\Debug\net8.0\todo-app.deps.json
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\bin\Debug\net8.0\todo-app.runtimeconfig.json
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\bin\Debug\net8.0\todo-app.dll
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\bin\Debug\net8.0\todo-app.pdb
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.AssemblyInfoInputs.cache
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.AssemblyInfo.cs
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.csproj.CoreCompileInputs.cache
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.dll
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\refint\todo-app.dll
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.pdb
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\todo-app.genruntimeconfig.cache
+C:\dev\utbildning\ovningar\Kod - Todo App Lektion 7\obj\Debug\net8.0\ref\todo-app.dll
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.AssemblyInfoInputs.cache
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.AssemblyInfo.cs
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.csproj.CoreCompileInputs.cache
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.dll
+C:\Code\ToDoSearch\obj\Debug\net8.0\refint\todo-app.dll
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.pdb
+C:\Code\ToDoSearch\bin\Debug\net8.0\todo-app.exe
+C:\Code\ToDoSearch\bin\Debug\net8.0\todo-app.deps.json
+C:\Code\ToDoSearch\bin\Debug\net8.0\todo-app.runtimeconfig.json
+C:\Code\ToDoSearch\bin\Debug\net8.0\todo-app.dll
+C:\Code\ToDoSearch\bin\Debug\net8.0\todo-app.pdb
+C:\Code\ToDoSearch\obj\Debug\net8.0\todo-app.genruntimeconfig.cache
+C:\Code\ToDoSearch\obj\Debug\net8.0\ref\todo-app.dll

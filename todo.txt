@@ -1,0 +1,9 @@
+Fiska fiska+bil nöje 01/21/2024 01/21/2025
+Städa1 städa+hallen städa 01/21/2024 01/21/2023
+Städa2 städa+bil städa 01/21/2024 01/21/2022
+Handla handla+mat bla 01/21/2022 02/21/2024
+Betala hyra+bil bla 01/21/2022 01/21/2024
+Handla2 handla+film bla 01/21/2021 09/27/2024
+Städa3 städa+köket städa 01/21/2021 03/21/2024
+Film se+på+film nöje 01/21/2024 01/21/2024
+Fiska2 fiska+båt nöje 01/21/2024 09/27/2024
